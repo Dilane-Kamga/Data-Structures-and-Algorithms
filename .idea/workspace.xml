@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="170f7f0a-3acd-49ca-8a01-4f50eb08b259" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Part 1/src/ConstantTimeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1/src/ConstantTimeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 1/src/LinearTimeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1/src/LinearTimeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 1/src/QuadraticTimeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1/src/QuadraticTimeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 1/src/SpaceComplexity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1/src/SpaceComplexity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 1/src/WorkingWithArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Part 1/src/WorkingWithArrays.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="26cbouxZbqLyLUak2488nOVK9DN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Part 1" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="170f7f0a-3acd-49ca-8a01-4f50eb08b259" name="Changes" comment="" />
+      <created>1647726021123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647726021123</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
